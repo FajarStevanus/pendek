@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/home/fs/Documents/project/python/pendek/env/bin/python3.8"
+    "python.pythonPath": "/home/fs/project/pendek/env/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
 }

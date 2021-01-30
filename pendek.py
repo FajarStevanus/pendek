@@ -4,4 +4,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return "this is indexp"
+    return "this is index"
